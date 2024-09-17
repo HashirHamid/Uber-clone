@@ -1,6 +1,6 @@
-# uber_clone
+# Uber Clone
 
-A new Flutter project.
+The Uber clone app has Google Maps, Google Autocomplete, and Distance Matrix APIs integrated using Flutter and BLoC architecture, to provide precise routing, accurate distance calculations, and fare estimates.
 
 ## Getting Started
 
