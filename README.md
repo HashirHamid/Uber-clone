@@ -4,6 +4,10 @@ Clone app of Uber having Google Maps, Google Autocomplete, and Distance Matrix A
 
 # Setup
 
-Add your google API KEY in AndroidManifest.xml file.<br>
-Add env file in your project having this field as follows:<br>
+Add your google API KEY in AndroidManifest.xml file.
+<br>
+<br>
+Add env file in your project having this field as follows:
+<br>
+<br>
 GOOGLE_MAPS_APIKEY=<YOUR_GOOGLE_API_KEY>
